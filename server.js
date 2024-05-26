@@ -9,7 +9,7 @@ const io = socketIo(server);
 app.use(express.static('public'));
 
 let adminSocket = null;
-const adminId = 'admin123'; // Example admin ID
+const adminId = 'admin123'; // sample admin ID
 
 io.on('connection', (socket) => {
     console.log('A user connected');
