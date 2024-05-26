@@ -1,4 +1,5 @@
 WebRTC Voice Chat Application with Admin and User
+
 This application allows USER (customer) to connect with an ADMIN (Virtual Agent/ service provider) for a voice chat via WebRTC. The application includes login functionality for both admin and users, call initiation, and call termination features.
 
 Features
